@@ -2,6 +2,11 @@
 
 A relational database for managing a community library — tracking books, authors, members, and borrowing activity.
 
+
+## Repo Link
+
+https://github.com/Rahaf-Yasser/community-library-db
+
 ## 📖 Overview
 
 This project implements a normalized PostgreSQL database for a small community library. It tracks:
