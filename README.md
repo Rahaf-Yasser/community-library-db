@@ -40,4 +40,4 @@ The schema is normalized to **3NF** with the following tables:
 
 1. **Create the database:**
    ```bash
-   createdb library_db
+   createdb library_db 
